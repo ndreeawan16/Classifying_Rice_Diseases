@@ -4,6 +4,7 @@
 This project focuses on classifying rice leaf diseases using a simplified CNN architecture. Previous research using ResNet101 achieved 100% accuracy but suffered from high loss and overfitting. This study improves the model by reducing architectural complexity and comparing two simplified models with the ResNet101 baseline.
 
 🎯 Key Findings
+
 Simplified architecture achieves 100% accuracy with 2.91% loss.
 
 Overfitting from the previous model is significantly reduced.
