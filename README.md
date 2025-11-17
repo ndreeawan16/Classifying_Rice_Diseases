@@ -10,8 +10,11 @@ Proper layer arrangement is highly effective even with a small dataset.
 
 🔧 Technologies
 Python
+
 TensorFlow / Keras
+
 NumPy, Pandas
+
 Matplotlib
 
 🚀 Run the Model
